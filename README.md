@@ -44,5 +44,5 @@ Frontend
 ## Contributors
 
 - Emmanuel Koroma
-- Team Member 2
+- Sahr Kobba
 - Team Member 3
