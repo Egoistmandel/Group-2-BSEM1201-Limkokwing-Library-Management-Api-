@@ -1,6 +1,6 @@
 # Group-2-BSEM1201-Limkokwing-Library-Management-Api-
 Modern Digital Library Management System built with FastAPI, PostgreSQL and modern UI/UX.
-# Limkokwing Smart Digital Library Management System
+# Limkokwing Library Management API
 
 A modern digital library platform built using:
 
@@ -43,6 +43,6 @@ Frontend
 
 ## Contributors
 
-- Mystery Mandel
+- Emmanuel Koroma
 - Team Member 2
 - Team Member 3
