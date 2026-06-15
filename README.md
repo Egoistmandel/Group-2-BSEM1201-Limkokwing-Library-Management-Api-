@@ -45,4 +45,4 @@ Frontend
 
 - Emmanuel Koroma
 - Sahr Kobba
-- Team Member 3
+- Sylvanus Macauley 
